@@ -1,0 +1,8 @@
+*.lock
+*.cargo-lock
+*.json
+*.d
+*.o
+*.bin
+rust/checker/target/debug/.fingerprint/*
+rust/checker/target/debug/deps/*
